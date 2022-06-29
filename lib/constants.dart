@@ -18,6 +18,6 @@ const LinearGradient linearGradientBottomBar = LinearGradient(
     ColorDef.gradientLight,
     ColorDef.gradientDark,
   ],
-  begin: Alignment.topLeft,
-  end: Alignment.bottomRight,
+  begin: Alignment.topCenter,
+  end: Alignment.bottomCenter,
 );

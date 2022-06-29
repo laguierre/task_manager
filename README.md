@@ -1,16 +1,16 @@
-# task_manager
+# Task Manager
 
-A new Flutter project.
+Task Manager Ux.
 
-## Getting Started
+##Graphical resource
+- unDraw [link](https://undraw.co/search)
 
-This project is a starting point for a Flutter application.
+**Packages used:**
+- google_fonts: ^3.0.1 [link](https://pub.dev/packages/google_fonts/install)
+- flutter_svg: ^1.1.1 [link](https://pub.dev/packages?q=svg)
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
+<p align="center">
+<img src="screenshots\Screenshot_1656463602.png" height="700">
+</p>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
